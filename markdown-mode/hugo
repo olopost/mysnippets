@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: Hugo
+# key: <w
+# condition: t
+# --
+
+{{% warning %}}
+$0
+{{% /warning %}}

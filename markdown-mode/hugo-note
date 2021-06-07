@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: Note Hugo mode
+# key: <n
+# condition: t
+# --
+
+{{% note %}}
+$0
+{{% /note %}}
